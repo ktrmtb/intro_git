@@ -2,3 +2,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 ‚¿‚ñ‚±
 ƒEƒ“q
 git rm
+git status
